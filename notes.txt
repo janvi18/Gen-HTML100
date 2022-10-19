@@ -1,0 +1,54 @@
+HTML --> HyperText Markup Language.
+Uses --> create web pages and web applications.
+We can create a static website.
+
+Syntax: 
+
+< --> angular bracket
+<html>
+    <head> 
+    <title> DEMO </title>
+    </head>
+    <body>
+    
+    //code
+
+    </body>
+
+</html>
+
+Extension --> .html or .htm
+
+Heading --> 6 types
+
+<h1> </h1>
+<h2> </h2>
+<h3> </h3>
+<h4> </h4>
+<h5> </h5>
+<h6> </h6>
+
+Tags :-
+<p> --> paragraph
+<b> --> to bold the Text
+<i> --> to italic the Text
+<u> --> to underline the Text
+<mark> --> to highlight the Text
+<hr> --> horizontal row
+<br> --> break the row [ to the next line ]
+<ol> --> ordered list
+<li> --> list items
+<ul> --> unordered list
+<br> --> break row [ next line ]
+
+HTML Formatting Elements:
+
+<strong> - Important text [ same as bold tag ]
+<em> - Emphasized text [ same as italic tag ]
+<small> - Smaller text
+<big> - Bigger text 
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
