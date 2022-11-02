@@ -7,7 +7,7 @@ Syntax:
 < --> angular bracket
 <html>
     <head> 
-    <title> DEMO </title>
+    <title> DEMO </title> 
     </head>
     <body>
     
@@ -30,7 +30,7 @@ Heading --> 6 types
 
 Tags :-
 <p> --> paragraph
-<b> --> to bold the Text
+<b> --> to bold the Text 
 <i> --> to italic the Text
 <u> --> to underline the Text
 <mark> --> to highlight the Text
@@ -48,7 +48,64 @@ HTML Formatting Elements:
 <small> - Smaller text
 <big> - Bigger text 
 <del> - Deleted text
-<ins> - Inserted text
+<ins> - Inserted text [ same as underline tag ]
 <sub> - Subscript text
 <sup> - Superscript text
+
+
+<ol> --> order list
+
+
+Style Types:
+type="1" --> The list items will be numbered with numbers (default)
+type="A" --> The list items will be numbered with uppercase letters
+type="a" --> The list items will be numbered with lowercase letters
+type="I" --> The list items will be numbered with uppercase roman numbers
+type="i" --> The list items will be numbered with lowercase roman numbers
+
+Syntax:-
+<ol style="list-style-type:lower-roman;">
+<li> items </li>
+</ol>
+
+<ul> --> unordered list
+
+Style Types:
+disc --> Sets the list item marker to a bullet (default)
+circle --> Sets the list item marker to a circle
+square --> Sets the list item marker to a square
+none --> The list items will not be marked
+
+
+Syntax:-
+<ul style="list-style-type: circle;">
+<li> items </li>
+</ul>
+
+
+
+<table> --> table tag
+
+Syntax:-
+<table>
+    <tr>
+        <td>
+            // table body
+        </td>
+    </tr>
+</table>
+
+Table Tags: 
+
+<table> --> defines a table.
+<tr> --> defines a row in a table.
+<th> --> defines a header cell in a table.
+<td> --> defines a cell in a table.
+<caption> --> defines the table caption.
+<colgroup> --> specifies a group of one or more columns in a table for formatting.
+<col> --> used with <colgroup> element to specify column properties for each column.
+<tbody> --> used to group the body content in a table.
+<thead> --> used to group the header content in a table.
+<tfooter> --> used to group the footer content in a table.
+
 
