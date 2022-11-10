@@ -138,7 +138,16 @@ Syntax:-
 <li> items </li>
 </ul>
 
+Description List --> displays elements in definition form like in dictionary
 
+<dl> --> tag defines the description list
+<dt> --> tag defines data term
+<dd> --> tag defines data definition (description)
+
+Details Tag --> used to specify the additional details on the web page that the user can view or hide on demand
+
+<details> --> wraps all the content which you want to show or hide
+<summary> --> contains the summary and the title of the section
 
 
 
