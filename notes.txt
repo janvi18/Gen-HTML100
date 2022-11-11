@@ -150,6 +150,20 @@ Details Tag --> used to specify the additional details on the web page that the 
 <summary> --> contains the summary and the title of the section
 
 
+==> Block-level and Inline HTML elements
+
+==> Block-level element:
+--> These are the elements, which structure main part of web page, by dividing a page into coherent blocks.
+--> A block-level element always start with new line and takes the full width of web page, from left to right.
+--> These elements can contain block-level as well as inline elements.
+
+==> Inline elements:
+--> Inline elements are those elements, which differentiate the part of a given text and provide it a particular 
+    function.
+--> These elements does not start with new line and take width as per requirement.
+--> The Inline elements are mostly used with other elements.
+
+
 
 
 
