@@ -156,7 +156,7 @@ Details Tag --> used to specify the additional details on the web page that the 
 --> These are the elements, which structure main part of web page, by dividing a page into coherent blocks.
 --> A block-level element always start with new line and takes the full width of web page, from left to right.
 --> These elements can contain block-level as well as inline elements.
-
+p
 ==> Inline elements:
 --> Inline elements are those elements, which differentiate the part of a given text and provide it a particular 
     function.
@@ -169,7 +169,18 @@ HTML Form:
 
 
 
+CSS --> Cascading StyleSheet
 
+CSS is used to apply the style in the web page which is made up of HTML elements. 
+CSS describes the look of the webpage.
+CSS provides various style properties such as background color, padding, margin, border-color, and many more, to style a webpage.
+
+Three ways to apply CSS
+To use CSS with HTML document, there are three ways:
+
+Inline CSS: Define CSS properties using style attribute in the HTML elements.
+Internal or Embedded CSS: Define CSS using <style> tag in <head> section.
+External CSS: Define all CSS property in a separate .css file, and then include the file with HTML file using tag in section.
 
 
 
