@@ -163,6 +163,11 @@ Details Tag --> used to specify the additional details on the web page that the 
 --> These elements does not start with new line and take width as per requirement.
 --> The Inline elements are mostly used with other elements.
 
+HTML Form:
+--> HTML form is a section of a document which contains controls such as text fields, password fields, checkboxes, radio buttons, submit button, menus etc.
+--> HTML forms are required if you want to collect some data from of the site visitor.
+
+
 
 
 
