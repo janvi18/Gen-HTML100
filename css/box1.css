@@ -1,0 +1,37 @@
+.div2 {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(245, 234, 154);
+    padding: 50px;
+    border: 1px solid rgb(255, 137, 137);
+    box-sizing: border-box;
+    margin-top: 20px;
+    margin-left: 30px;
+    float: right;
+}
+
+.clear::after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+p {
+    padding: 50px;
+}
+
+.imageclass {
+    float: right;
+    width: 200px;
+    height: 200px;
+}
+
+.box {
+    float: left;
+    width: 300px;
+    height: 300px;
+    background: rgb(240, 125, 125);
+    border: 1px solid rgb(255, 137, 137);
+    box-sizing: border-box;
+    margin: 25px;
+}
